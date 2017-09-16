@@ -1,0 +1,1 @@
+This inverts the responsibilities so that the factories focus on the attributes (each value with it's own class)
