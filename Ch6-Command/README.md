@@ -1,0 +1,1 @@
+Super simple remote control mapping, do more expansive examples later (e.g. include binary switches operations)

@@ -1,0 +1,1 @@
+Various different Display classes (the observers) wait for updates from the Data class (the subject), upon updates from the Subject they process it to display relevant data
