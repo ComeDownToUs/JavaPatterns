@@ -1,1 +1,1 @@
-Pretty self explanatory pattern really
+Pretty self explanatory pattern really. Converts one interface to operate within the constraints of another.
